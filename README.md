@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or inquiries, feel free to reach out:
 
-- Email: vijay.22320079@viit.ac.in
-- LinkedIn: https://www.linkedin.com/in/vijaymisal/
+- Email: vedant.22210536@viit.ac.in
+- LinkedIn:https://www.linkedin.com/in/vedant-patil-9314a1258/
 
 
