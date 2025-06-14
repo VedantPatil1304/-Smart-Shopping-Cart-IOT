@@ -6,7 +6,7 @@
 
 ## **Overview**
 
-The **Smart Shopping Cart App** is an innovative IoT-based solution designed to streamline the shopping process by allowing users to effortlessly scan products and manage their shopping cart through a mobile application. The app aims to reduce the need for traditional billing lines and enhance the overall shopping experience by integrating features like barcode scanning, real-time product validation, and load cell verification, ensuring that no additional products are added without scanning.
+The **Smart Shopping Cart App** is an innovative IoT-based solution designed by our Iot group to streamline the shopping process by allowing users to effortlessly scan products and manage their shopping cart through a mobile application. The app aims to reduce the need for traditional billing lines and enhance the overall shopping experience by integrating features like barcode scanning, real-time product validation, and load cell verification, ensuring that no additional products are added without scanning.
 
 ---
 
